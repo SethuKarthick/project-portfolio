@@ -1,0 +1,13 @@
+To create the Application
+ng new Applicaton_name 
+
+To create component 
+ng g component component_name 
+
+Installing bootstrap in our application - npm install bootstarp@3 jquery --save
+then include the added bootstrap and jquery into the angular-cli.json file under scripts and styles array.
+
+Routing ---> 
+import router modules
+declare the for_root to register the router modules 
+ 
